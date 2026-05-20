@@ -1,0 +1,1455 @@
+[
+  {
+    "id": 1,
+    "name": "Yogur griego con frutos rojos",
+    "type": "Desayuno",
+    "time": 7,
+    "difficulty": "Muy fácil",
+    "tags": [
+      "energía",
+      "proteína",
+      "rápido"
+    ],
+    "baseServings": 2,
+    "why": "Desayuno fresco, saciante y fácil de preparar.",
+    "ingredients": [
+      [
+        "Yogur griego natural",
+        300,
+        "g",
+        "Lácteos"
+      ],
+      [
+        "Frutos rojos",
+        160,
+        "g",
+        "Fruta"
+      ],
+      [
+        "Nueces",
+        30,
+        "g",
+        "Frutos secos"
+      ],
+      [
+        "Semillas de chía",
+        20,
+        "g",
+        "Despensa"
+      ]
+    ],
+    "steps": [
+      "Servir el yogur en dos bowls.",
+      "Añadir frutos rojos, nueces y chía.",
+      "Mezclar justo antes de comer."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Avena nocturna con manzana",
+    "type": "Desayuno",
+    "time": 10,
+    "difficulty": "Fácil",
+    "tags": [
+      "fibra",
+      "preparación previa"
+    ],
+    "baseServings": 2,
+    "why": "Ideal para dejar preparado y evitar improvisar por la mañana.",
+    "ingredients": [
+      [
+        "Copos de avena",
+        100,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Leche o bebida vegetal",
+        300,
+        "ml",
+        "Bebidas"
+      ],
+      [
+        "Manzana",
+        2,
+        "uds",
+        "Fruta"
+      ],
+      [
+        "Canela",
+        4,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Semillas de lino",
+        20,
+        "g",
+        "Despensa"
+      ]
+    ],
+    "steps": [
+      "Mezclar avena, leche, canela y lino.",
+      "Guardar en nevera toda la noche.",
+      "Añadir manzana al servir."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tortilla verde con espinacas",
+    "type": "Desayuno",
+    "time": 12,
+    "difficulty": "Fácil",
+    "tags": [
+      "proteína",
+      "salado"
+    ],
+    "baseServings": 2,
+    "why": "Opción salada, simple y rica en proteína.",
+    "ingredients": [
+      [
+        "Huevos",
+        4,
+        "uds",
+        "Proteínas"
+      ],
+      [
+        "Espinacas",
+        120,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ],
+      [
+        "Tomate cherry",
+        160,
+        "g",
+        "Verduras"
+      ]
+    ],
+    "steps": [
+      "Saltear espinacas con aceite.",
+      "Batir huevos y añadir a la sartén.",
+      "Servir con tomate cherry."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Smoothie verde cremoso",
+    "type": "Desayuno",
+    "time": 6,
+    "difficulty": "Muy fácil",
+    "tags": [
+      "rápido",
+      "fresco"
+    ],
+    "baseServings": 2,
+    "why": "Para días con poco tiempo y necesidad de algo ligero.",
+    "ingredients": [
+      [
+        "Plátano",
+        2,
+        "uds",
+        "Fruta"
+      ],
+      [
+        "Espinacas",
+        80,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Yogur griego natural",
+        200,
+        "g",
+        "Lácteos"
+      ],
+      [
+        "Agua",
+        250,
+        "ml",
+        "Bebidas"
+      ],
+      [
+        "Crema de almendra",
+        30,
+        "g",
+        "Frutos secos"
+      ]
+    ],
+    "steps": [
+      "Añadir todos los ingredientes a la batidora.",
+      "Triturar hasta textura cremosa.",
+      "Servir frío."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tostada de aguacate y huevo",
+    "type": "Desayuno",
+    "time": 10,
+    "difficulty": "Fácil",
+    "tags": [
+      "saciante",
+      "proteína"
+    ],
+    "baseServings": 2,
+    "why": "Desayuno clásico, equilibrado y muy fácil de repetir.",
+    "ingredients": [
+      [
+        "Pan integral",
+        4,
+        "rebanadas",
+        "Panadería"
+      ],
+      [
+        "Aguacate",
+        2,
+        "uds",
+        "Fruta"
+      ],
+      [
+        "Huevos",
+        4,
+        "uds",
+        "Proteínas"
+      ],
+      [
+        "Limón",
+        1,
+        "ud",
+        "Fruta"
+      ],
+      [
+        "Aceite de oliva",
+        10,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Tostar el pan.",
+      "Machacar aguacate con limón.",
+      "Añadir huevo cocido o a la plancha."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Requesón con fruta y semillas",
+    "type": "Desayuno",
+    "time": 5,
+    "difficulty": "Muy fácil",
+    "tags": [
+      "rápido",
+      "proteína"
+    ],
+    "baseServings": 2,
+    "why": "Una opción muy rápida para desayunos o meriendas.",
+    "ingredients": [
+      [
+        "Requesón",
+        300,
+        "g",
+        "Lácteos"
+      ],
+      [
+        "Kiwi",
+        2,
+        "uds",
+        "Fruta"
+      ],
+      [
+        "Semillas mixtas",
+        25,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Miel",
+        10,
+        "g",
+        "Despensa"
+      ]
+    ],
+    "steps": [
+      "Servir requesón en bowl.",
+      "Añadir kiwi y semillas.",
+      "Usar miel opcionalmente."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Pudding de chía con cacao",
+    "type": "Desayuno",
+    "time": 10,
+    "difficulty": "Fácil",
+    "tags": [
+      "preparación previa",
+      "dulce"
+    ],
+    "baseServings": 2,
+    "why": "Postre-desayuno saludable para preparar el día anterior.",
+    "ingredients": [
+      [
+        "Semillas de chía",
+        50,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Leche o bebida vegetal",
+        300,
+        "ml",
+        "Bebidas"
+      ],
+      [
+        "Cacao puro",
+        10,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Frambuesas",
+        120,
+        "g",
+        "Fruta"
+      ]
+    ],
+    "steps": [
+      "Mezclar chía, leche y cacao.",
+      "Reposar mínimo 3 horas en nevera.",
+      "Servir con frambuesas."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Crepes de avena y plátano",
+    "type": "Desayuno",
+    "time": 15,
+    "difficulty": "Media",
+    "tags": [
+      "familia",
+      "dulce"
+    ],
+    "baseServings": 2,
+    "why": "Versión sencilla y atractiva para variar desayunos.",
+    "ingredients": [
+      [
+        "Copos de avena",
+        80,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Huevos",
+        2,
+        "uds",
+        "Proteínas"
+      ],
+      [
+        "Plátano",
+        2,
+        "uds",
+        "Fruta"
+      ],
+      [
+        "Yogur griego natural",
+        120,
+        "g",
+        "Lácteos"
+      ]
+    ],
+    "steps": [
+      "Triturar avena, huevo y plátano.",
+      "Cocinar en sartén antiadherente.",
+      "Servir con yogur."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Huevos con tomate y rúcula",
+    "type": "Desayuno",
+    "time": 12,
+    "difficulty": "Fácil",
+    "tags": [
+      "salado",
+      "saciante"
+    ],
+    "baseServings": 2,
+    "why": "Plato salado, simple y muy completo.",
+    "ingredients": [
+      [
+        "Huevos",
+        4,
+        "uds",
+        "Proteínas"
+      ],
+      [
+        "Tomate",
+        2,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Rúcula",
+        60,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Cocinar los huevos al gusto.",
+      "Cortar tomate y rúcula.",
+      "Servir con aceite de oliva."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Bowl proteico de desayuno",
+    "type": "Desayuno",
+    "time": 8,
+    "difficulty": "Muy fácil",
+    "tags": [
+      "proteína",
+      "energía"
+    ],
+    "baseServings": 2,
+    "why": "Un bowl completo para empezar el día con estructura.",
+    "ingredients": [
+      [
+        "Yogur griego natural",
+        300,
+        "g",
+        "Lácteos"
+      ],
+      [
+        "Avena",
+        60,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Arándanos",
+        120,
+        "g",
+        "Fruta"
+      ],
+      [
+        "Almendras",
+        30,
+        "g",
+        "Frutos secos"
+      ]
+    ],
+    "steps": [
+      "Colocar yogur como base.",
+      "Añadir avena, arándanos y almendras.",
+      "Mezclar y servir."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Bowl mediterráneo alto en proteína",
+    "type": "Comida",
+    "time": 20,
+    "difficulty": "Fácil",
+    "tags": [
+      "mediterráneo",
+      "proteína"
+    ],
+    "baseServings": 2,
+    "why": "Comida equilibrada, colorida y fácil de llevar.",
+    "ingredients": [
+      [
+        "Pechuga de pollo",
+        300,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Quinoa",
+        120,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Pepino",
+        1,
+        "ud",
+        "Verduras"
+      ],
+      [
+        "Tomate cherry",
+        160,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Aceite de oliva",
+        20,
+        "ml",
+        "Aceites"
+      ],
+      [
+        "Limón",
+        1,
+        "ud",
+        "Fruta"
+      ]
+    ],
+    "steps": [
+      "Cocer quinoa.",
+      "Cocinar pollo a la plancha.",
+      "Montar bowl con verduras y aliño."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Salmón con verduras al horno",
+    "type": "Comida",
+    "time": 25,
+    "difficulty": "Fácil",
+    "tags": [
+      "omega",
+      "horno"
+    ],
+    "baseServings": 2,
+    "why": "Plato completo con proteína y verduras de preparación sencilla.",
+    "ingredients": [
+      [
+        "Salmón",
+        320,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Calabacín",
+        2,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Pimiento rojo",
+        1,
+        "ud",
+        "Verduras"
+      ],
+      [
+        "Aceite de oliva",
+        20,
+        "ml",
+        "Aceites"
+      ],
+      [
+        "Patata",
+        300,
+        "g",
+        "Tubérculos"
+      ]
+    ],
+    "steps": [
+      "Cortar verduras y patata.",
+      "Hornear con aceite y especias.",
+      "Añadir salmón los últimos minutos."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Pollo al limón con quinoa",
+    "type": "Comida",
+    "time": 22,
+    "difficulty": "Fácil",
+    "tags": [
+      "saciante",
+      "meal prep"
+    ],
+    "baseServings": 2,
+    "why": "Funciona muy bien para preparar de más y guardar.",
+    "ingredients": [
+      [
+        "Pechuga de pollo",
+        320,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Quinoa",
+        140,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Limón",
+        1,
+        "ud",
+        "Fruta"
+      ],
+      [
+        "Brócoli",
+        250,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Cocer quinoa y brócoli.",
+      "Cocinar pollo con limón.",
+      "Servir todo junto."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Ensalada de garbanzos completa",
+    "type": "Comida",
+    "time": 12,
+    "difficulty": "Muy fácil",
+    "tags": [
+      "vegetal",
+      "rápido"
+    ],
+    "baseServings": 2,
+    "why": "Perfecta para comida rápida sin cocinar demasiado.",
+    "ingredients": [
+      [
+        "Garbanzos cocidos",
+        400,
+        "g",
+        "Legumbres"
+      ],
+      [
+        "Tomate",
+        2,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Pepino",
+        1,
+        "ud",
+        "Verduras"
+      ],
+      [
+        "Queso feta",
+        80,
+        "g",
+        "Lácteos"
+      ],
+      [
+        "Aceite de oliva",
+        20,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Lavar garbanzos.",
+      "Cortar verduras.",
+      "Mezclar con feta y aceite."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Pavo con boniato y ensalada",
+    "type": "Comida",
+    "time": 25,
+    "difficulty": "Fácil",
+    "tags": [
+      "energía",
+      "saciante"
+    ],
+    "baseServings": 2,
+    "why": "Una comida muy estructurada y saciante.",
+    "ingredients": [
+      [
+        "Pavo",
+        320,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Boniato",
+        350,
+        "g",
+        "Tubérculos"
+      ],
+      [
+        "Lechuga",
+        120,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Aguacate",
+        1,
+        "ud",
+        "Fruta"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Asar boniato.",
+      "Cocinar pavo a la plancha.",
+      "Servir con ensalada."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pasta integral vegetal",
+    "type": "Comida",
+    "time": 20,
+    "difficulty": "Fácil",
+    "tags": [
+      "familia",
+      "vegetal"
+    ],
+    "baseServings": 2,
+    "why": "Plato cómodo para días donde apetece algo fácil.",
+    "ingredients": [
+      [
+        "Pasta integral",
+        160,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Calabacín",
+        1,
+        "ud",
+        "Verduras"
+      ],
+      [
+        "Tomate triturado",
+        250,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Parmesano",
+        30,
+        "g",
+        "Lácteos"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Cocer pasta.",
+      "Preparar salsa con tomate y calabacín.",
+      "Servir con parmesano."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Wrap de pollo y verduras",
+    "type": "Comida",
+    "time": 15,
+    "difficulty": "Muy fácil",
+    "tags": [
+      "rápido",
+      "portable"
+    ],
+    "baseServings": 2,
+    "why": "Opción práctica para comer fuera o llevar.",
+    "ingredients": [
+      [
+        "Tortillas integrales",
+        4,
+        "uds",
+        "Panadería"
+      ],
+      [
+        "Pechuga de pollo",
+        260,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Lechuga",
+        80,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Zanahoria",
+        2,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Yogur griego natural",
+        80,
+        "g",
+        "Lácteos"
+      ]
+    ],
+    "steps": [
+      "Cocinar pollo en tiras.",
+      "Mezclar yogur como salsa.",
+      "Montar wraps con verduras."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Arroz con atún y verduras",
+    "type": "Comida",
+    "time": 18,
+    "difficulty": "Fácil",
+    "tags": [
+      "rápido",
+      "despensa"
+    ],
+    "baseServings": 2,
+    "why": "Solución fácil con alimentos básicos.",
+    "ingredients": [
+      [
+        "Arroz integral",
+        150,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Atún al natural",
+        220,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Maíz",
+        80,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Tomate",
+        2,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Cocer arroz.",
+      "Mezclar con atún y verduras.",
+      "Aliñar con aceite."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Sopa suave de lentejas",
+    "type": "Comida",
+    "time": 30,
+    "difficulty": "Media",
+    "tags": [
+      "legumbre",
+      "caliente"
+    ],
+    "baseServings": 2,
+    "why": "Plato de cuchara nutritivo para dejar preparado.",
+    "ingredients": [
+      [
+        "Lentejas cocidas",
+        400,
+        "g",
+        "Legumbres"
+      ],
+      [
+        "Zanahoria",
+        2,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Cebolla",
+        1,
+        "ud",
+        "Verduras"
+      ],
+      [
+        "Caldo vegetal",
+        600,
+        "ml",
+        "Despensa"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Sofreír cebolla y zanahoria.",
+      "Añadir lentejas y caldo.",
+      "Cocinar y servir."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Tofu mediterráneo con verduras",
+    "type": "Comida",
+    "time": 20,
+    "difficulty": "Fácil",
+    "tags": [
+      "vegetal",
+      "ligero"
+    ],
+    "baseServings": 2,
+    "why": "Alternativa vegetal simple y sabrosa.",
+    "ingredients": [
+      [
+        "Tofu firme",
+        300,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Berenjena",
+        1,
+        "ud",
+        "Verduras"
+      ],
+      [
+        "Tomate cherry",
+        160,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Aceite de oliva",
+        20,
+        "ml",
+        "Aceites"
+      ],
+      [
+        "Quinoa",
+        120,
+        "g",
+        "Despensa"
+      ]
+    ],
+    "steps": [
+      "Cocer quinoa.",
+      "Saltear tofu y verduras.",
+      "Unir y sazonar."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Merluza al horno con calabacín",
+    "type": "Cena",
+    "time": 22,
+    "difficulty": "Fácil",
+    "tags": [
+      "ligero",
+      "horno"
+    ],
+    "baseServings": 2,
+    "why": "Cena ligera y fácil de digerir.",
+    "ingredients": [
+      [
+        "Merluza",
+        320,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Calabacín",
+        2,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Limón",
+        1,
+        "ud",
+        "Fruta"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ],
+      [
+        "Perejil",
+        10,
+        "g",
+        "Verduras"
+      ]
+    ],
+    "steps": [
+      "Colocar merluza y calabacín en bandeja.",
+      "Añadir limón, aceite y perejil.",
+      "Hornear hasta cocinar."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Crema de calabacín con huevo",
+    "type": "Cena",
+    "time": 20,
+    "difficulty": "Fácil",
+    "tags": [
+      "caliente",
+      "suave"
+    ],
+    "baseServings": 2,
+    "why": "Cena cómoda y sencilla para cerrar el día.",
+    "ingredients": [
+      [
+        "Calabacín",
+        3,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Puerro",
+        1,
+        "ud",
+        "Verduras"
+      ],
+      [
+        "Huevos",
+        4,
+        "uds",
+        "Proteínas"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ],
+      [
+        "Caldo vegetal",
+        500,
+        "ml",
+        "Despensa"
+      ]
+    ],
+    "steps": [
+      "Cocer verduras con caldo.",
+      "Triturar con aceite.",
+      "Servir con huevo cocido."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Tacos saludables de pollo",
+    "type": "Cena",
+    "time": 18,
+    "difficulty": "Fácil",
+    "tags": [
+      "familia",
+      "rápido"
+    ],
+    "baseServings": 2,
+    "why": "Una opción divertida sin complicarse.",
+    "ingredients": [
+      [
+        "Tortillas integrales",
+        4,
+        "uds",
+        "Panadería"
+      ],
+      [
+        "Pechuga de pollo",
+        280,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Aguacate",
+        1,
+        "ud",
+        "Fruta"
+      ],
+      [
+        "Tomate",
+        2,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Lima",
+        1,
+        "ud",
+        "Fruta"
+      ]
+    ],
+    "steps": [
+      "Cocinar pollo especiado.",
+      "Preparar tomate y aguacate.",
+      "Montar tacos."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Berenjena rellena de pavo",
+    "type": "Cena",
+    "time": 30,
+    "difficulty": "Media",
+    "tags": [
+      "saciante",
+      "horno"
+    ],
+    "baseServings": 2,
+    "why": "Cena completa para cuando quieres algo más elaborado.",
+    "ingredients": [
+      [
+        "Berenjena",
+        2,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Pavo picado",
+        280,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Tomate triturado",
+        220,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Queso rallado",
+        50,
+        "g",
+        "Lácteos"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Asar berenjena abierta.",
+      "Cocinar pavo con tomate.",
+      "Rellenar, añadir queso y gratinar."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Wok de verduras y gambas",
+    "type": "Cena",
+    "time": 15,
+    "difficulty": "Fácil",
+    "tags": [
+      "rápido",
+      "ligero"
+    ],
+    "baseServings": 2,
+    "why": "Cena rápida con proteína y muchas verduras.",
+    "ingredients": [
+      [
+        "Gambas",
+        300,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Brócoli",
+        200,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Zanahoria",
+        2,
+        "uds",
+        "Verduras"
+      ],
+      [
+        "Salsa de soja",
+        20,
+        "ml",
+        "Despensa"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Saltear verduras.",
+      "Añadir gambas.",
+      "Terminar con soja."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Ensalada de quinoa y huevo",
+    "type": "Cena",
+    "time": 18,
+    "difficulty": "Fácil",
+    "tags": [
+      "fresco",
+      "saciante"
+    ],
+    "baseServings": 2,
+    "why": "Cena fresca que se puede dejar medio preparada.",
+    "ingredients": [
+      [
+        "Quinoa",
+        120,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Huevos",
+        4,
+        "uds",
+        "Proteínas"
+      ],
+      [
+        "Pepino",
+        1,
+        "ud",
+        "Verduras"
+      ],
+      [
+        "Rúcula",
+        80,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Cocer quinoa y huevos.",
+      "Cortar verduras.",
+      "Mezclar y aliñar."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Pollo curry suave",
+    "type": "Cena",
+    "time": 25,
+    "difficulty": "Media",
+    "tags": [
+      "caliente",
+      "sabor"
+    ],
+    "baseServings": 2,
+    "why": "Una opción con sabor, sin ser pesada.",
+    "ingredients": [
+      [
+        "Pechuga de pollo",
+        320,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Leche de coco ligera",
+        200,
+        "ml",
+        "Despensa"
+      ],
+      [
+        "Curry suave",
+        8,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Espinacas",
+        120,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Arroz integral",
+        120,
+        "g",
+        "Despensa"
+      ]
+    ],
+    "steps": [
+      "Cocer arroz.",
+      "Cocinar pollo con curry y leche de coco.",
+      "Añadir espinacas al final."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Gazpacho proteico con huevo",
+    "type": "Cena",
+    "time": 10,
+    "difficulty": "Muy fácil",
+    "tags": [
+      "fresco",
+      "rápido"
+    ],
+    "baseServings": 2,
+    "why": "Cena fresca para días de calor o poca hambre.",
+    "ingredients": [
+      [
+        "Gazpacho natural",
+        600,
+        "ml",
+        "Verduras"
+      ],
+      [
+        "Huevos",
+        4,
+        "uds",
+        "Proteínas"
+      ],
+      [
+        "Atún al natural",
+        160,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Pepino",
+        1,
+        "ud",
+        "Verduras"
+      ]
+    ],
+    "steps": [
+      "Servir gazpacho frío.",
+      "Añadir huevo cocido y atún.",
+      "Acompañar con pepino."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Poke casero equilibrado",
+    "type": "Cena",
+    "time": 20,
+    "difficulty": "Fácil",
+    "tags": [
+      "fresco",
+      "completo"
+    ],
+    "baseServings": 2,
+    "why": "Plato tipo bowl con muchas combinaciones posibles.",
+    "ingredients": [
+      [
+        "Arroz integral",
+        140,
+        "g",
+        "Despensa"
+      ],
+      [
+        "Salmón",
+        260,
+        "g",
+        "Proteínas"
+      ],
+      [
+        "Edamame",
+        120,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Aguacate",
+        1,
+        "ud",
+        "Fruta"
+      ],
+      [
+        "Pepino",
+        1,
+        "ud",
+        "Verduras"
+      ]
+    ],
+    "steps": [
+      "Cocer arroz.",
+      "Preparar salmón y verduras.",
+      "Montar bowl."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Cena ligera de proteína y verduras",
+    "type": "Cena",
+    "time": 12,
+    "difficulty": "Muy fácil",
+    "tags": [
+      "ligero",
+      "rápido"
+    ],
+    "baseServings": 2,
+    "why": "Para noches en las que necesitas algo simple.",
+    "ingredients": [
+      [
+        "Huevos",
+        4,
+        "uds",
+        "Proteínas"
+      ],
+      [
+        "Espárragos",
+        250,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Tomate cherry",
+        150,
+        "g",
+        "Verduras"
+      ],
+      [
+        "Aceite de oliva",
+        15,
+        "ml",
+        "Aceites"
+      ]
+    ],
+    "steps": [
+      "Saltear espárragos.",
+      "Cocinar huevos al gusto.",
+      "Servir con tomate cherry."
+    ]
+  }
+]

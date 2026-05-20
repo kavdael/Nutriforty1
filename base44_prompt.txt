@@ -1,0 +1,83 @@
+Create a premium Spanish web app called “Nutri Forty Chef”.
+
+Objective:
+Build a polished client-facing app for personalized nutrition planning, recipe discovery, weekly menu generation, shopping list calculation and lead qualification.
+
+Important brand constraints:
+- Keep the brand name “Nutri Forty”.
+- Do not show explicit age references in the visible UI.
+- Tone: premium, warm, practical, professional, trustworthy.
+- Avoid medical claims, fear-based language and guaranteed results.
+- Use Spanish.
+
+Brand colors:
+- Dark green: #183531
+- Orange: #FF6A2A
+- Cream: #F3EEE5
+- Soft green: #E8F0EC
+- Soft orange: #FFE2D4
+- White: #FFFFFF
+- Gray: #6F6F6F
+- Font: Montserrat or similar.
+
+Core screens:
+1. Landing page
+- Hero: “Tu chef inteligente para comer mejor cada semana.”
+- Subtitle about recipes, weekly menu and shopping list.
+- CTA: “Crear mi plan”
+- CTA secondary: “Ver 30 recetas”
+- Stats: 30 recetas iniciales, 7 días de menú, 1–4 personas.
+
+2. Questionnaire
+Fields:
+- Nombre
+- Email
+- Objetivo principal
+- Nivel de actividad
+- Tiempo para cocinar
+- Inversión mensual que valorarías:
+  - Aún no lo sé
+  - Hasta 150 €/mes
+  - 150 € - 300 €/mes
+  - 300 € - 500 €/mes
+  - Más de 500 €/mes
+- Preferencias, intolerancias o alimentos a evitar
+After submit, show personalized result and recommendation.
+
+3. Recipe library
+- Include 30 initial recipes.
+- Filters: Todas, Desayuno, Comida, Cena.
+- Search by recipe or ingredient.
+- Recipe cards include: name, type, time, difficulty, tags, why it fits, ingredients, steps.
+- Button: Ver receta.
+- Button: Añadir al menú.
+
+4. Weekly menu planner
+- Generate a weekly menu for Monday to Sunday.
+- Include breakfast, lunch and dinner.
+- User can change each meal.
+- User can copy/export the menu.
+
+5. Shopping list
+- Generate automatically from the weekly menu.
+- Selector for 1, 2, 3 or 4 persons.
+- Quantities scale proportionally from base servings.
+- Group ingredients by category: Proteínas, Verduras, Fruta, Despensa, Lácteos, Aceites, Panadería, Legumbres, Tubérculos, Frutos secos.
+- Allow print/download.
+
+6. Call booking CTA
+- Section: “¿Quieres una estrategia personalizada?”
+- Button: Reservar llamada.
+- Button: Copiar datos del lead.
+- Optional future integration: Calendly, Google Calendar, WhatsApp.
+
+Admin / business logic:
+- Store leads with name, email, goal, activity, cooking time, investment range, notes.
+- Classify lead priority:
+  - Exploratoria: Aún no lo sé / Hasta 150 €/mes
+  - Media: 150 € - 300 €/mes
+  - Alta: 300 € - 500 €/mes / Más de 500 €/mes
+- Future offer mapping:
+  - Offer 1: 750 €
+  - Offer 2: 1,297 €
+  - Offer 3: 3,500 €
